@@ -1,7 +1,6 @@
 # Event Manager
 
-## Descripción
-Esta aplicación es una [descripción breve de lo que hace la aplicación].
+
 
 ## Instalación
 1. Clona este repositorio en tu máquina local.
